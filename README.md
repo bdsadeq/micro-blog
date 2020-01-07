@@ -1,22 +1,22 @@
 # Micro Blog
+
 Microblogging platform using ReactJS, Redux and Django.
 
 ## Technical Information
 
 ### Frontend
-* ReactJs (v 16.12.0)
 
+- ReactJs (v 16.12.0)
 
 ### Backend
-* Python (v 3.6.9)
-* Django (v 3.0.2)
-* Django REST framework (v 3.11.0)
 
-
+- Python (v 3.6.9)
+- Django (v 3.0.2)
+- Django REST framework (v 3.11.0)
 
 ## Todo
 
-- [x] Environement Setup
+- [x] Environment Setup
 - [ ] Registration/Signin/Signout
 - [ ] Home page with blog lists
 - [ ] Post Blog
@@ -25,7 +25,6 @@ Microblogging platform using ReactJS, Redux and Django.
 - [ ] Blog Details
 - [ ] Comment in blog and counter
 - [ ] Blog like with counter
-
 
 ---
 
