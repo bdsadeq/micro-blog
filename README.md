@@ -1,6 +1,6 @@
 # Micro Blog
 
-Microblogging platform using ReactJS, Redux and Django.
+Micro-blogging platform using ReactJS, Redux and Django.
 
 ## Technical Information
 
