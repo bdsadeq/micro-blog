@@ -20,7 +20,8 @@ Microblogging platform using ReactJS, Redux and Django.
 - [ ] Registration (WIP)
   - [ ] User Table Design
   - [ ] Registration API
-  - [ ] Design and Integrate Front-end Registration
+  - [ ] Design Front-end Registration
+  - [ ] Integrate Front-end Registration
 - [ ] Signin/Signout
 - [ ] Home page with blog lists
 - [ ] Post Blog
