@@ -17,7 +17,7 @@ Microblogging platform using ReactJS, Redux and Django.
 ## Todo
 
 - [x] Environment Setup
-- [ ] Registration
+- [ ] Registration (WIP)
   - [ ] User Table Design
   - [ ] Registration API
   - [ ] Design and Integrate Front-end Registration
